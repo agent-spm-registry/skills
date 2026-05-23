@@ -1,0 +1,12 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "asdafd",
+  "type": "rules",
+  "skillFile": "SKILL.md",
+  "author": "lakshitsoni26",
+  "license": "MIT",
+  "template": "rules",
+  "skills": {},
+  "keywords": []
+}
